@@ -1,0 +1,24 @@
+everything will have a boolean value. Here are some examples.
+True \ False with T and F in uppercase
+Nothing is reperesented by None
+
+
+
+Python 2.7.5 (default, Aug  7 2019, 00:51:29)
+[GCC 4.8.5 20150623 (Red Hat 4.8.5-39)] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 5/3
+1
+>>> 5 / 3
+1
+>>> 10 // 3
+3
+>>> bool(0)
+False
+>>> bool(1)
+True
+>>> bool("")
+False
+>>> bool(" ")
+True
+>>> exit()
